@@ -1,0 +1,116 @@
+results/dataset3_1000_784/dataset3_1000_784_0_results/dataset3_1000_784_temp_0/dataset3_1000_784_2_ Simulation Results
+
+ Data Seed: 0 
+Iteration 1 correlation:
+CNN Initial Accuracy:1.0 
+DNN Initial Accuracy:0.47
+CNN Final Accuracy:1.0
+DNN Final Accuracy:1.0
+CNN Initial Loss p:0.0987117663025856
+DNN Initial Loss p:0.7377716898918152
+CNN Final Loss p:0.45101848244667053
+DNN Final Loss p:0.000483543670270592
+CNN non if Loss p:0.1761748045682907
+CNN non if accuracy:1.0
+# of feature:16
+# of significant feature:16
+FDR:0.0
+select_feature_index:[9, 118, 164, 254, 303, 310, 396, 420, 484, 534, 590, 622, 643, 704, 737, 782]
+DNN Initial AUC:0.48323491142027825
+DNN Initial PR:0.5088996763754045
+DNN Initial F1:0.05357142857142857
+DNN Final AUC:1.0
+DNN Final PR:1.0
+DNN Final F1:1.0
+
+ Data Seed: 0 
+Iteration 1 correlation:
+CNN Initial Accuracy:1.0 
+DNN Initial Accuracy:0.47
+CNN Final Accuracy:1.0
+DNN Final Accuracy:1.0
+CNN Initial Loss p:0.0987117663025856
+DNN Initial Loss p:0.7377716898918152
+CNN Final Loss p:0.18030200898647308
+DNN Final Loss p:0.007555673364549875
+CNN non if Loss p:0.42270559072494507
+CNN non if accuracy:0.955
+# of feature:44
+# of significant feature:44
+FDR:0.0
+select_feature_index:[9, 118, 125, 138, 159, 227, 237, 252, 254, 264, 276, 287, 303, 346, 376, 414, 421, 441, 461, 482, 484, 493, 494, 515, 527, 534, 567, 589, 590, 594, 598, 599, 610, 622, 643, 667, 704, 706, 715, 725, 728, 737, 769, 782]
+DNN Initial AUC:0.48323491142027825
+DNN Initial PR:0.5088996763754045
+DNN Initial F1:0.05357142857142857
+DNN Final AUC:1.0
+DNN Final PR:1.0
+DNN Final F1:1.0
+
+ Data Seed: 0 
+Iteration 1 correlation:
+CNN Initial Accuracy:1.0 
+DNN Initial Accuracy:0.47
+CNN Final Accuracy:1.0
+DNN Final Accuracy:0.97
+CNN Initial Loss p:0.0987117663025856
+DNN Initial Loss p:0.7377716898918152
+CNN Final Loss p:0.11009138822555542
+DNN Final Loss p:0.0509796142578125
+CNN non if Loss p:0.6412190794944763
+CNN non if accuracy:0.595
+# of feature:58
+# of significant feature:58
+FDR:0.0
+select_feature_index:[9, 10, 118, 125, 138, 159, 164, 237, 252, 254, 264, 276, 284, 287, 292, 303, 309, 310, 346, 356, 367, 376, 396, 414, 421, 441, 461, 482, 484, 490, 493, 515, 526, 534, 559, 567, 574, 588, 594, 598, 599, 610, 618, 622, 643, 650, 667, 704, 706, 715, 722, 724, 725, 728, 737, 769, 771, 782]
+DNN Initial AUC:0.48323491142027825
+DNN Initial PR:0.5088996763754045
+DNN Initial F1:0.05357142857142857
+DNN Final AUC:0.9991992793514163
+DNN Final PR:0.9992501207020305
+DNN Final F1:0.9702970297029703
+
+ Data Seed: 0 
+Iteration 1 correlation:
+CNN Initial Accuracy:1.0 
+DNN Initial Accuracy:0.47
+CNN Final Accuracy:1.0
+DNN Final Accuracy:0.97
+CNN Initial Loss p:0.0987117663025856
+DNN Initial Loss p:0.7377716898918152
+CNN Final Loss p:0.09219999611377716
+DNN Final Loss p:0.09031803905963898
+CNN non if Loss p:0.7146524786949158
+CNN non if accuracy:0.485
+# of feature:94
+# of significant feature:64
+FDR:0.3191489279270172
+select_feature_index:[9, 10, 43, 56, 57, 82, 83, 97, 107, 118, 125, 138, 158, 159, 164, 187, 227, 232, 237, 240, 242, 247, 252, 254, 264, 276, 284, 287, 292, 303, 309, 310, 314, 324, 329, 346, 356, 367, 376, 396, 414, 420, 421, 428, 441, 443, 461, 473, 482, 484, 490, 493, 494, 509, 515, 526, 527, 534, 552, 559, 567, 572, 574, 580, 588, 589, 590, 594, 598, 599, 602, 606, 610, 614, 618, 622, 643, 650, 654, 667, 689, 704, 706, 715, 722, 724, 725, 728, 737, 760, 761, 769, 771, 782]
+DNN Initial AUC:0.48323491142027825
+DNN Initial PR:0.5088996763754045
+DNN Initial F1:0.05357142857142857
+DNN Final AUC:0.9992993694324892
+DNN Final PR:0.9993425676085032
+DNN Final F1:0.97
+
+ Data Seed: 0 
+Iteration 1 correlation:
+CNN Initial Accuracy:1.0 
+DNN Initial Accuracy:0.47
+CNN Final Accuracy:1.0
+DNN Final Accuracy:0.955
+CNN Initial Loss p:0.0987117663025856
+DNN Initial Loss p:0.7377716898918152
+CNN Final Loss p:0.09115378558635712
+DNN Final Loss p:0.11265664547681808
+CNN non if Loss p:0.7231886982917786
+CNN non if accuracy:0.48
+# of feature:93
+# of significant feature:64
+FDR:0.31182795763015747
+select_feature_index:[9, 10, 58, 77, 82, 118, 125, 138, 159, 164, 187, 191, 195, 206, 217, 221, 224, 227, 237, 252, 254, 264, 276, 281, 284, 287, 292, 297, 303, 309, 310, 320, 329, 346, 354, 356, 367, 376, 396, 397, 398, 406, 414, 420, 421, 429, 441, 447, 461, 482, 484, 490, 493, 494, 501, 515, 526, 527, 534, 541, 552, 553, 559, 567, 572, 574, 580, 588, 589, 590, 594, 598, 599, 603, 610, 618, 622, 643, 650, 654, 667, 704, 706, 715, 722, 724, 725, 728, 737, 769, 771, 774, 782]
+DNN Initial AUC:0.48323491142027825
+DNN Initial PR:0.5088996763754045
+DNN Initial F1:0.05357142857142857
+DNN Final AUC:0.9916925232709438
+DNN Final PR:0.9916297840785016
+DNN Final F1:0.9573459715639812
