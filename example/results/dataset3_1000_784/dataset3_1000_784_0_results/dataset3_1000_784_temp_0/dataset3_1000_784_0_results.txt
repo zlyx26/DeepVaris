@@ -1,0 +1,116 @@
+results/dataset3_1000_784/dataset3_1000_784_0_results/dataset3_1000_784_temp_0/dataset3_1000_784_0_ Simulation Results
+
+ Data Seed: 0 
+Iteration 1 correlation:
+CNN Initial Accuracy:1.0 
+DNN Initial Accuracy:0.47
+CNN Final Accuracy:0.935
+DNN Final Accuracy:0.995
+CNN Initial Loss p:0.14297696948051453
+DNN Initial Loss p:0.7377716898918152
+CNN Final Loss p:0.6369234919548035
+DNN Final Loss p:0.01953958161175251
+CNN non if Loss p:0.16145725548267365
+CNN non if accuracy:1.0
+# of feature:4
+# of significant feature:4
+FDR:0.0
+select_feature_index:[310, 490, 610, 771]
+DNN Initial AUC:0.48323491142027825
+DNN Initial PR:0.5088996763754045
+DNN Initial F1:0.05357142857142857
+DNN Final AUC:1.0
+DNN Final PR:1.0
+DNN Final F1:0.9951690821256038
+
+ Data Seed: 0 
+Iteration 1 correlation:
+CNN Initial Accuracy:1.0 
+DNN Initial Accuracy:0.47
+CNN Final Accuracy:1.0
+DNN Final Accuracy:0.99
+CNN Initial Loss p:0.14297696948051453
+DNN Initial Loss p:0.7377716898918152
+CNN Final Loss p:0.15474744141101837
+DNN Final Loss p:0.04113658145070076
+CNN non if Loss p:0.6254599690437317
+CNN non if accuracy:0.775
+# of feature:59
+# of significant feature:59
+FDR:0.0
+select_feature_index:[9, 118, 138, 159, 164, 227, 237, 252, 254, 264, 276, 284, 287, 292, 303, 309, 310, 346, 356, 367, 376, 396, 414, 421, 461, 482, 484, 490, 493, 494, 515, 526, 527, 534, 559, 567, 574, 588, 589, 590, 594, 599, 610, 618, 622, 643, 650, 667, 704, 706, 715, 722, 724, 725, 728, 737, 769, 771, 782]
+DNN Initial AUC:0.48323491142027825
+DNN Initial PR:0.5088996763754045
+DNN Initial F1:0.05357142857142857
+DNN Final AUC:1.0
+DNN Final PR:1.0
+DNN Final F1:0.9901960784313726
+
+ Data Seed: 0 
+Iteration 1 correlation:
+CNN Initial Accuracy:1.0 
+DNN Initial Accuracy:0.47
+CNN Final Accuracy:1.0
+DNN Final Accuracy:0.985
+CNN Initial Loss p:0.14297696948051453
+DNN Initial Loss p:0.7377716898918152
+CNN Final Loss p:0.13623085618019104
+DNN Final Loss p:0.05105802044272423
+CNN non if Loss p:0.6951976418495178
+CNN non if accuracy:0.53
+# of feature:64
+# of significant feature:64
+FDR:0.0
+select_feature_index:[9, 10, 118, 125, 138, 159, 164, 227, 237, 252, 254, 264, 276, 284, 287, 292, 303, 309, 310, 346, 356, 367, 376, 396, 414, 420, 421, 441, 461, 482, 484, 490, 493, 494, 515, 526, 527, 534, 559, 567, 574, 588, 589, 590, 594, 598, 599, 610, 618, 622, 643, 650, 667, 704, 706, 715, 722, 724, 725, 728, 737, 769, 771, 782]
+DNN Initial AUC:0.48323491142027825
+DNN Initial PR:0.5088996763754045
+DNN Initial F1:0.05357142857142857
+DNN Final AUC:0.9992993694324892
+DNN Final PR:0.9993437198630528
+DNN Final F1:0.985645933014354
+
+ Data Seed: 0 
+Iteration 1 correlation:
+CNN Initial Accuracy:1.0 
+DNN Initial Accuracy:0.47
+CNN Final Accuracy:1.0
+DNN Final Accuracy:0.99
+CNN Initial Loss p:0.14297696948051453
+DNN Initial Loss p:0.7377716898918152
+CNN Final Loss p:0.1370934247970581
+DNN Final Loss p:0.025730077177286148
+CNN non if Loss p:0.6999149918556213
+CNN non if accuracy:0.535
+# of feature:69
+# of significant feature:64
+FDR:0.07246376574039459
+select_feature_index:[9, 10, 53, 58, 118, 125, 138, 159, 164, 227, 232, 237, 252, 254, 264, 276, 284, 287, 292, 303, 309, 310, 346, 356, 367, 376, 396, 414, 420, 421, 441, 461, 482, 484, 490, 493, 494, 515, 518, 526, 527, 534, 559, 567, 574, 588, 589, 590, 594, 598, 599, 610, 618, 622, 643, 650, 667, 704, 706, 715, 722, 724, 725, 728, 737, 748, 769, 771, 782]
+DNN Initial AUC:0.48323491142027825
+DNN Initial PR:0.5088996763754045
+DNN Initial F1:0.05357142857142857
+DNN Final AUC:1.0
+DNN Final PR:1.0
+DNN Final F1:0.9901960784313726
+
+ Data Seed: 0 
+Iteration 1 correlation:
+CNN Initial Accuracy:1.0 
+DNN Initial Accuracy:0.47
+CNN Final Accuracy:1.0
+DNN Final Accuracy:0.82
+CNN Initial Loss p:0.14297696948051453
+DNN Initial Loss p:0.7377716898918152
+CNN Final Loss p:0.1374506950378418
+DNN Final Loss p:0.7012091875076294
+CNN non if Loss p:0.688153088092804
+CNN non if accuracy:0.535
+# of feature:134
+# of significant feature:64
+FDR:0.5223880410194397
+select_feature_index:[6, 9, 10, 12, 28, 47, 49, 53, 55, 58, 61, 73, 77, 82, 87, 114, 118, 125, 132, 138, 144, 152, 159, 161, 162, 164, 195, 210, 221, 227, 232, 237, 242, 243, 249, 252, 254, 259, 260, 264, 266, 273, 276, 281, 284, 287, 292, 303, 309, 310, 317, 322, 331, 343, 346, 354, 356, 359, 361, 367, 376, 392, 396, 398, 409, 411, 414, 420, 421, 427, 429, 441, 452, 456, 461, 465, 469, 482, 484, 490, 493, 494, 498, 509, 515, 518, 521, 526, 527, 534, 541, 559, 567, 574, 584, 588, 589, 590, 594, 598, 599, 602, 606, 610, 613, 618, 622, 630, 643, 645, 650, 654, 667, 674, 680, 692, 701, 704, 706, 708, 715, 722, 724, 725, 728, 737, 743, 744, 748, 754, 769, 771, 774, 782]
+DNN Initial AUC:0.48323491142027825
+DNN Initial PR:0.5088996763754045
+DNN Initial F1:0.05357142857142857
+DNN Final AUC:0.927334601141027
+DNN Final PR:0.9202404409477289
+DNN Final F1:0.8125

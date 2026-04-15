@@ -1,0 +1,117 @@
+results/dataset3_1000_784/dataset3_1000_784_0_ Simulation Results
+
+ Data Seed: 0 
+Iteration 1 correlation:
+CNN Initial Accuracy:1.0 
+DNN Initial Accuracy:0.47
+CNN Final Accuracy:0
+DNN Final Accuracy:0
+CNN Initial Loss p:1.0
+DNN Initial Loss p:0.0987117663025856
+CNN Final Loss p:0.7377716898918152
+DNN Final Loss p:0
+CNN non if Loss p:0
+CNN non if accuracy:1.0
+# of feature:0
+# of significant feature:0
+FDR:0
+select_feature_index:1
+DNN Initial AUC:[0]
+DNN Initial PR:0
+DNN Initial F1:0
+DNN Final AUC:0
+DNN Final PR:0
+DNN Final F1:0
+all_feature_num_list:0
+
+ Data Seed: 0 
+Iteration 1 correlation:
+CNN Initial Accuracy:1.0 
+DNN Initial Accuracy:0.47
+CNN Final Accuracy:1.0
+DNN Final Accuracy:1.0
+CNN Initial Loss p:0.0987117663025856
+DNN Initial Loss p:0.7377716898918152
+CNN Final Loss p:0.09115378558635712
+DNN Final Loss p:0.004451035056263208
+CNN non if Loss p:0.2239154875278473
+CNN non if accuracy:1.0
+# of feature:24
+# of significant feature:24
+FDR:0.0
+select_feature_index:[515, 643, 9, 138, 782, 527, 667, 159, 287, 567, 704, 706, 461, 589, 594, 725, 728, 737, 610, 227, 237, 493, 622, 376]
+DNN Initial AUC:0.48323491142027825
+DNN Initial PR:0.5088996763754045
+DNN Initial F1:0.05357142857142857
+DNN Final AUC:1.0
+DNN Final PR:1.0
+DNN Final F1:1.0
+
+ Data Seed: 0 
+Iteration 1 correlation:
+CNN Initial Accuracy:1.0 
+DNN Initial Accuracy:0.47
+CNN Final Accuracy:1.0
+DNN Final Accuracy:0.98
+CNN Initial Loss p:0.0987117663025856
+DNN Initial Loss p:0.7377716898918152
+CNN Final Loss p:0.09115378558635712
+DNN Final Loss p:0.05161597207188606
+CNN non if Loss p:0.48720812797546387
+CNN non if accuracy:0.87
+# of feature:50
+# of significant feature:50
+FDR:0.0
+select_feature_index:[769, 771, 515, 643, 264, 9, 10, 138, 650, 526, 782, 276, 534, 667, 284, 414, 159, 287, 292, 421, 303, 309, 310, 441, 574, 704, 715, 588, 594, 722, 724, 725, 598, 599, 728, 482, 610, 356, 484, 490, 618, 237, 493, 367, 622, 118, 376, 252, 125, 254]
+DNN Initial AUC:0.48323491142027825
+DNN Initial PR:0.5088996763754045
+DNN Initial F1:0.05357142857142857
+DNN Final AUC:0.9997998198378542
+DNN Final PR:0.9998123871603934
+DNN Final F1:0.9801980198019802
+
+ Data Seed: 0 
+Iteration 1 correlation:
+CNN Initial Accuracy:1.0 
+DNN Initial Accuracy:0.47
+CNN Final Accuracy:1.0
+DNN Final Accuracy:0.985
+CNN Initial Loss p:0.0987117663025856
+DNN Initial Loss p:0.7377716898918152
+CNN Final Loss p:0.09115378558635712
+DNN Final Loss p:0.029389122501015663
+CNN non if Loss p:0.702533483505249
+CNN non if accuracy:0.485
+# of feature:63
+# of significant feature:63
+FDR:0.0
+select_feature_index:[769, 771, 515, 643, 264, 9, 10, 138, 396, 650, 526, 527, 782, 276, 534, 667, 284, 414, 159, 287, 164, 292, 420, 421, 303, 559, 309, 310, 567, 441, 574, 704, 706, 715, 588, 461, 589, 590, 594, 722, 724, 725, 598, 599, 728, 346, 737, 482, 227, 484, 610, 490, 618, 237, 493, 367, 494, 622, 118, 376, 252, 125, 254]
+DNN Initial AUC:0.48323491142027825
+DNN Initial PR:0.5088996763754045
+DNN Initial F1:0.05357142857142857
+DNN Final AUC:0.9993994595135622
+DNN Final PR:0.9994478318896711
+DNN Final F1:0.985645933014354
+
+ Data Seed: 0 
+Iteration 1 correlation:
+CNN Initial Accuracy:1.0 
+DNN Initial Accuracy:0.47
+CNN Final Accuracy:1.0
+DNN Final Accuracy:0.99
+CNN Initial Loss p:0.0987117663025856
+DNN Initial Loss p:0.7377716898918152
+CNN Final Loss p:0.09115378558635712
+DNN Final Loss p:0.022653445601463318
+CNN non if Loss p:0.7155576944351196
+CNN non if accuracy:0.485
+# of feature:66
+# of significant feature:64
+FDR:0.030303030303030304
+select_feature_index:[769, 515, 771, 643, 774, 264, 9, 10, 138, 650, 396, 526, 527, 654, 782, 276, 534, 667, 284, 414, 159, 287, 164, 292, 420, 421, 559, 303, 309, 310, 567, 441, 574, 704, 706, 715, 588, 589, 590, 461, 594, 722, 724, 725, 598, 599, 728, 346, 737, 610, 227, 356, 482, 484, 618, 490, 237, 622, 367, 493, 494, 118, 376, 252, 125, 254]
+DNN Initial AUC:0.48323491142027825
+DNN Initial PR:0.5088996763754045
+DNN Initial F1:0.05357142857142857
+DNN Final AUC:1.0
+DNN Final PR:1.0
+DNN Final F1:0.9901960784313726
